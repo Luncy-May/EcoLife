@@ -1,6 +1,8 @@
 
 # EcoLife
 
+![EcoLife Screenshot](./assets/EcoLifeDemo.png)
+
 EcoLife is an application that provides users with eco-friendly activity suggestions based on their estimated budget in various categories and subcategories. It also features an AI chat widget that allows users to communicate directly with an AI assistant for personalized advice on living an eco-friendly lifestyle.
 
 ## Features

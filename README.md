@@ -8,7 +8,7 @@ EcoLife is an application that provides users with eco-friendly activity suggest
 ## Features
 - View eco-friendly activity suggestions tailored to your budget.
 - Budget estimation for various categories and subcategories.
-- Integrated AI chat widget for real-time interaction and advice.
+- Integrated **Voiceflow** AI chat widget for real-time interaction and advice.
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ To get started with **EcoLife** locally, follow the instructions below.
    First, clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Luncy-May/EcoLife.git
    cd EcoLife
    ```
 
@@ -98,15 +98,14 @@ EcoLife/
 │   ├── .env          # Environment variables
 │   └── package.json  # Server dependencies
 ├── README.md         # Project README
-└── .gitignore        # Files and directories to ignore in git
 ```
 
 ### Usage
 
-Once both the client and server are running, open your browser and navigate to:
+Once both the client and server are running, open your browser and navigate to (default 5173):
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 You can now start exploring eco-friendly activities based on your budget, or interact with the AI chat widget for personalized suggestions.
